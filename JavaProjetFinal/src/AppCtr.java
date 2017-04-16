@@ -13,10 +13,8 @@ public class AppCtr {
 		
 		
 		System.out.println("=== Calcul sommee ===");
-		
-		int a = 15;
-		int b = 20;
-		System.out.println("a+b = "+ (a+b));
+		System.out.println(Utils.SommeInt(15, 25));
+		 
 		
 	}
 
