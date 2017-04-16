@@ -15,6 +15,9 @@ public class AppCtr {
 		//lkjfdg ldlkg fg 
 		//l, fdlkfdg fdgf;l
 		//lkjglkfdg 
+		int a = 15;
+		int b = 20;
+		System.out.println("a+b = "+ (a+b));
 	}
 
 }
