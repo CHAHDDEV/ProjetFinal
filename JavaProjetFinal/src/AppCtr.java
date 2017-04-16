@@ -6,7 +6,10 @@ public class AppCtr {
 		System.out.println("Bonjour le monde Git Eclipse!");
 		
 		//mon message a moi Dev: hassen
-		System.out.println("mon msg a Moi DEV1 : Hassen");
+		System.out.println("mon msg a Moi DEV1 : le dev hassen");
+		
+		//mon message a moi Dev: Dhekra
+		System.out.println("mon msg a Moi DEV2 : Dhekra");
 	}
 
 }
