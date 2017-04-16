@@ -12,12 +12,11 @@ public class AppCtr {
 		System.out.println("mon msg a Moi DEV2 : Dhekra");
 		
 		
-		//lkjfdg ldlkg fg 
-		//l, fdlkfdg fdgf;l
-		//lkjglkfdg 
+		System.out.println("=== Calcul sommee ===");
 		int a = 15;
 		int b = 20;
 		System.out.println("a+b = "+ (a+b));
+		
 	}
 
 }
